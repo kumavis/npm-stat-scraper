@@ -1,5 +1,7 @@
 # npm stat scraper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/npm-stat-scraper.svg)](https://greenkeeper.io/)
+
 scrape module download stats from npmjs.org
 
 ### example
